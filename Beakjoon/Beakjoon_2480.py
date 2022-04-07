@@ -1,3 +1,4 @@
+#문제: https://www.acmicpc.net/problem/2480
 import statistics
 
 a, b, c = map(int, input().split())
